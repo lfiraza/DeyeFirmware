@@ -1,6 +1,6 @@
 DeyeFirmware
 
-This repository serves as a collection of various firmware versions for Deye inverters, including both controller (MAIN) and display (HMI) firmware. It is intended solely for archival and reference purposes.
+This repository serves as a collection of various firmware versions for Deye inverters, including both controller (MAIN) and display (HMI) firmware. It is intended solely for archival and reference purposes.\
 Disclaimer
 
 - This repository is not officially associated with or endorsed by Deye.
